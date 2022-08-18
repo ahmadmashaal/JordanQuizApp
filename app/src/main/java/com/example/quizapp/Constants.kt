@@ -22,7 +22,7 @@ object Constants {
         questionList.add(que1)
 
         val que2 = Question(
-            1,
+            2,
             "Which of these countries does not have a border with Jordan?",
             R.drawable.mapofjordan,
             "Palestine",
@@ -34,7 +34,7 @@ object Constants {
         questionList.add(que2)
 
         val que3 = Question(
-            1,
+            3,
             "What was Jordan called, immediately prior to the establishment of the present day Hashemite Kingdom of Jordan?",
             R.drawable.oldimageofjordan,
             "Transjordan",
@@ -46,7 +46,7 @@ object Constants {
         questionList.add(que3)
 
         val que4 = Question(
-            1,
+            4,
             "What was the nickname of the British colonel, who during World War I, led daring raids on Turkish forces in Jordan?",
             R.drawable.flagofbritian,
             "Lawrence of Arabia",
@@ -58,7 +58,7 @@ object Constants {
         questionList.add(que4)
 
         val que5 = Question(
-            1,
+            5,
             "Perhaps the most famous of Jordan's many historic sites and monuments is the Nabatean city of Petra. By what other name is Petra commonly known?",
             R.drawable.petra,
             "The Rock City",
@@ -70,7 +70,7 @@ object Constants {
         questionList.add(que5)
 
         val que6 = Question(
-            1,
+            6,
             "The Dead Sea is situated on the border between Jordan and Israel. Why is this sea called the Dead Sea?",
             R.drawable.petra,
             "No major life forms can survive in it.",
@@ -82,7 +82,7 @@ object Constants {
         questionList.add(que6)
 
         val que7 = Question(
-            1,
+            7,
             "The River Jordan is Jordan's main source of fresh water, but where does this river end up?",
             R.drawable.mapofjordan,
             "The Dead Sea",
@@ -94,7 +94,7 @@ object Constants {
         questionList.add(que7)
 
         val que8 = Question(
-            1,
+            8,
             "The Bible records that Jesus was baptized in the River Jordan by Who?",
             R.drawable.pictureofjesus,
             "Marry",
@@ -106,7 +106,7 @@ object Constants {
         questionList.add(que8)
 
         val que9 = Question(
-            1,
+            9,
             "On the national flag of Jordan there is a seven point star. What do these seven points signify?",
             R.drawable.flagofjordan,
             "the seven states comprising the kingdom of Jordan",
@@ -118,7 +118,7 @@ object Constants {
         questionList.add(que9)
 
         val que10 = Question(
-            1,
+            10,
             "What is the capital city of Jordan?",
             R.drawable.mapofjordan,
             "Damascus",
